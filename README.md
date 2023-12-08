@@ -10,7 +10,7 @@
 
 - :zap: Хочу набрать больше практике в больших проектах в разработке игр на Unity.
 
-- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maksgera7404@gmail.com)
+- Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maksgera7404@gmail.com)
 
 ---
 
